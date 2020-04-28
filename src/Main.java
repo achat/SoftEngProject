@@ -2,13 +2,10 @@
 public class Main {
 
 	public static void main(String[] args) {
-		System.out.println("Test project");
-		
 		System.out.println("second message");
-		
-
-		
-		int test = 5;
+	
+		for(int i=0; i<5; i++)
+			System.out.println("value of i is: " + i);
 	}
 
 }
