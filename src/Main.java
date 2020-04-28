@@ -7,6 +7,8 @@ public class Main {
 		System.out.println("second message");
 		
 
+		
+		int test = 5;
 	}
 
 }
